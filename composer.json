@@ -1,0 +1,9 @@
+{
+    "name": "alex/mvc-icatalogo",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\" : "App/"
+        }
+    }
+}
